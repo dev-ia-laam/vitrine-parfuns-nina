@@ -1,0 +1,38 @@
+{
+  "brandName": "Olfazeta — Parfumerie Pauline",
+  "tagline": {
+    "fr": "L'essence de votre élégance.",
+    "en": "The essence of your elegance.",
+    "es": "La esencia de su elegancia."
+  },
+  "whatsappNumber": "",
+  "whatsappMessage": {
+    "fr": "Bonjour, je souhaite avoir plus d'informations concernant le parfum [NOM].",
+    "en": "Hello, I would like more information about the perfume [NAME].",
+    "es": "Hola, me gustaría más información sobre el perfume [NOMBRE]."
+  },
+  "socials": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "heroImage": "/images/branding/brand-p3-632.jpg",
+  "about": {
+    "fr": "Contenu À propos à personnaliser. Marque d'extraits de parfums concentrés à 30 %, inspirés de grandes fragrances. Liste complète issue des catalogues fournis. Mentions : produits originaux, références aux marques uniquement descriptives (ART. 1 bis ex r.d 929/42-IT).",
+    "en": "About content to customize. Concentrated perfume extracts (30%), inspired by famous fragrances.",
+    "es": "Contenido A propósito para personalizar. Extractos concentrados (30 %), inspirados en grandes fragancias."
+  },
+  "legalDisclaimer": "Tous les produits ont été créés à partir des fragrances de parfums, pour certains célèbres sur le marché, en s'inspirant d'eux. Toute référence à des marques ou des noms est utilisée uniquement de façon descriptive pour l'identification des fragrances (ART. 1 bis ex r.d 929/42-IT). Les marques appartiennent à leurs propriétaires respectifs. Produit ORIGINAL — ni copie ni contrefaçon.",
+  "storage": {
+    "writable": true,
+    "mode": "file",
+    "analyticsFile": "/data/analytics/events.jsonl",
+    "contactsFile": "/data/contacts.csv"
+  }
+}

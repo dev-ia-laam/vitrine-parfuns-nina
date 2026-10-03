@@ -1,0 +1,19 @@
+{
+  "name": "parfum-vitrine-premium",
+  "version": "1.0.0",
+  "description": "Site vitrine premium parfums Femme & Homme — sans base de données (JSON + CSV/JSONL)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "hash": "node scripts/hash.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

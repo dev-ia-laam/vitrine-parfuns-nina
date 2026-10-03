@@ -1,0 +1,4849 @@
+{
+  "products": [
+    {
+      "id": "parfum-001",
+      "ref": "001",
+      "name": "One Million",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T001",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3001",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "001",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de One Million (PACO RABANNE). Référence 001. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by One Million (PACO RABANNE). Reference 001. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en One Million (PACO RABANNE). Referencia 001. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-001.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-002",
+      "ref": "002",
+      "name": "Acqua di Giò",
+      "inspirationBrand": "ARMANI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T002",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3002",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "002",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Acqua di Giò (ARMANI). Référence 002. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Acqua di Giò (ARMANI). Reference 002. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Acqua di Giò (ARMANI). Referencia 002. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-002.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-003",
+      "ref": "003",
+      "name": "Fahrenheit",
+      "inspirationBrand": "DIOR",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T003",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3003",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "003",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Fahrenheit (DIOR). Référence 003. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Fahrenheit (DIOR). Reference 003. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Fahrenheit (DIOR). Referencia 003. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-003.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-004",
+      "ref": "004",
+      "name": "The One",
+      "inspirationBrand": "D&G",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T004",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3004",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "004",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de The One (D&G). Référence 004. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by The One (D&G). Reference 004. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en The One (D&G). Referencia 004. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-004.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-005",
+      "ref": "005",
+      "name": "Hugo",
+      "inspirationBrand": "HUGO BOSS",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T005",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3005",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "005",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Hugo (HUGO BOSS). Référence 005. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Hugo (HUGO BOSS). Reference 005. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Hugo (HUGO BOSS). Referencia 005. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-006",
+      "ref": "006",
+      "name": "Opium",
+      "inspirationBrand": "YSL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T006",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3006",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "006",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Opium (YSL). Référence 006. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Opium (YSL). Reference 006. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Opium (YSL). Referencia 006. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-006.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-007",
+      "ref": "007",
+      "name": "J'Adore",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T007",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3007",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "007",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de J'Adore (DIOR). Référence 007. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by J'Adore (DIOR). Reference 007. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en J'Adore (DIOR). Referencia 007. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-007.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-010",
+      "ref": "010",
+      "name": "Alien",
+      "inspirationBrand": "THIERRY MUGLER",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T010",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3010",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "010",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Alien (THIERRY MUGLER). Référence 010. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Alien (THIERRY MUGLER). Reference 010. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Alien (THIERRY MUGLER). Referencia 010. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-010.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-011",
+      "ref": "011",
+      "name": "Light Blue",
+      "inspirationBrand": "D&G",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T011",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3011",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "011",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Light Blue (D&G). Référence 011. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Light Blue (D&G). Reference 011. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Light Blue (D&G). Referencia 011. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-011.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-012",
+      "ref": "012",
+      "name": "Eau Sauvage",
+      "inspirationBrand": "DIOR",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T012",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3012",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "012",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Eau Sauvage (DIOR). Référence 012. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Eau Sauvage (DIOR). Reference 012. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Eau Sauvage (DIOR). Referencia 012. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-012.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-014",
+      "ref": "014",
+      "name": "Manifesto",
+      "inspirationBrand": "YSL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T014",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3014",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "014",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Manifesto (YSL). Référence 014. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Manifesto (YSL). Reference 014. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Manifesto (YSL). Referencia 014. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-014.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-015",
+      "ref": "015",
+      "name": "Roma Uomo",
+      "inspirationBrand": "LAURA BIAGIOTTI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T015",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3015",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "015",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Roma Uomo (LAURA BIAGIOTTI). Référence 015. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Roma Uomo (LAURA BIAGIOTTI). Reference 015. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Roma Uomo (LAURA BIAGIOTTI). Referencia 015. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-015.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-016",
+      "ref": "016",
+      "name": "Le Mâle",
+      "inspirationBrand": "JPG",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T016",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3016",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "016",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Le Mâle (JPG). Référence 016. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Le Mâle (JPG). Reference 016. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Le Mâle (JPG). Referencia 016. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-016.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-018",
+      "ref": "018",
+      "name": "Déclaration",
+      "inspirationBrand": "CARTIER",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T018",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3018",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "018",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Déclaration (CARTIER). Référence 018. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Déclaration (CARTIER). Reference 018. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Déclaration (CARTIER). Referencia 018. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-018.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-019",
+      "ref": "019",
+      "name": "Lady Million",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T019",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3019",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "019",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Lady Million (PACO RABANNE). Référence 019. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Lady Million (PACO RABANNE). Reference 019. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Lady Million (PACO RABANNE). Referencia 019. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-019.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-020",
+      "ref": "020",
+      "name": "La Nuit de l'Homme",
+      "inspirationBrand": "YSL",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T020",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3020",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "020",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de La Nuit de l'Homme (YSL). Référence 020. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by La Nuit de l'Homme (YSL). Reference 020. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en La Nuit de l'Homme (YSL). Referencia 020. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-020.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-021",
+      "ref": "021",
+      "name": "Light Blue",
+      "inspirationBrand": "D&G",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T021",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3021",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "021",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Light Blue (D&G). Référence 021. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Light Blue (D&G). Reference 021. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Light Blue (D&G). Referencia 021. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-021.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-022",
+      "ref": "022",
+      "name": "Terre d'Hermès",
+      "inspirationBrand": "HERMÈS",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T022",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3022",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "022",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Terre d'Hermès (HERMÈS). Référence 022. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Terre d'Hermès (HERMÈS). Reference 022. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Terre d'Hermès (HERMÈS). Referencia 022. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-022.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-023",
+      "ref": "023",
+      "name": "Hypnotic Poison",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T023",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3023",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "023",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Hypnotic Poison (DIOR). Référence 023. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Hypnotic Poison (DIOR). Reference 023. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Hypnotic Poison (DIOR). Referencia 023. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-023.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-024",
+      "ref": "024",
+      "name": "Chanel N°5",
+      "inspirationBrand": "CHANEL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T024",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3024",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "024",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Chanel N°5 (CHANEL). Référence 024. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Chanel N°5 (CHANEL). Reference 024. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Chanel N°5 (CHANEL). Referencia 024. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-024.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-025",
+      "ref": "025",
+      "name": "For Her",
+      "inspirationBrand": "NARCISO RODRIGUEZ",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T025",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3025",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "025",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de For Her (NARCISO RODRIGUEZ). Référence 025. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by For Her (NARCISO RODRIGUEZ). Reference 025. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en For Her (NARCISO RODRIGUEZ). Referencia 025. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-025.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-026",
+      "ref": "026",
+      "name": "Flower",
+      "inspirationBrand": "KENZO",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T026",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3026",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "026",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Flower (KENZO). Référence 026. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Flower (KENZO). Reference 026. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Flower (KENZO). Referencia 026. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-026.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-027",
+      "ref": "027",
+      "name": "Trésor",
+      "inspirationBrand": "LANCÔME",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T027",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3027",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "027",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Trésor (LANCÔME). Référence 027. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Trésor (LANCÔME). Reference 027. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Trésor (LANCÔME). Referencia 027. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-027.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-028",
+      "ref": "028",
+      "name": "Angel",
+      "inspirationBrand": "THIERRY MUGLER",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T028",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3028",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "028",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Angel (THIERRY MUGLER). Référence 028. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Angel (THIERRY MUGLER). Reference 028. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Angel (THIERRY MUGLER). Referencia 028. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-028.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-029",
+      "ref": "029",
+      "name": "L'Eau d'Issey",
+      "inspirationBrand": "ISSEY MIYAKE",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T029",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3029",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "029",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de L'Eau d'Issey (ISSEY MIYAKE). Référence 029. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by L'Eau d'Issey (ISSEY MIYAKE). Reference 029. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en L'Eau d'Issey (ISSEY MIYAKE). Referencia 029. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-029.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-030",
+      "ref": "030",
+      "name": "Black XS",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T030",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3030",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "030",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Black XS (PACO RABANNE). Référence 030. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Black XS (PACO RABANNE). Reference 030. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Black XS (PACO RABANNE). Referencia 030. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-030.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-031",
+      "ref": "031",
+      "name": "Blv",
+      "inspirationBrand": "BVLGARI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T031",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3031",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "031",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Blv (BVLGARI). Référence 031. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Blv (BVLGARI). Reference 031. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Blv (BVLGARI). Referencia 031. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-032",
+      "ref": "032",
+      "name": "Spicebomb",
+      "inspirationBrand": "VIKTOR & ROLF",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T032",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3032",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "032",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Spicebomb (VIKTOR & ROLF). Référence 032. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Spicebomb (VIKTOR & ROLF). Reference 032. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Spicebomb (VIKTOR & ROLF). Referencia 032. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-032.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-033",
+      "ref": "033",
+      "name": "Black Code",
+      "inspirationBrand": "ARMANI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T033",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3033",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "033",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Black Code (ARMANI). Référence 033. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Black Code (ARMANI). Reference 033. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Black Code (ARMANI). Referencia 033. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-033.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-037",
+      "ref": "037",
+      "name": "Man",
+      "inspirationBrand": "BVLGARI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T037",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3037",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "037",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Man (BVLGARI). Référence 037. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Man (BVLGARI). Reference 037. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Man (BVLGARI). Referencia 037. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-037.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-038",
+      "ref": "038",
+      "name": "Bleu",
+      "inspirationBrand": "CHANEL",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T038",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3038",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "038",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Bleu (CHANEL). Référence 038. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Bleu (CHANEL). Reference 038. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bleu (CHANEL). Referencia 038. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-038.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-039",
+      "ref": "039",
+      "name": "Miss Dior Chérie",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T039",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3039",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "039",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Miss Dior Chérie (DIOR). Référence 039. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Miss Dior Chérie (DIOR). Reference 039. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Miss Dior Chérie (DIOR). Referencia 039. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-039.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-040",
+      "ref": "040",
+      "name": "Hypnôse",
+      "inspirationBrand": "LANCÔME",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T040",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3040",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "040",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Hypnôse (LANCÔME). Référence 040. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Hypnôse (LANCÔME). Reference 040. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Hypnôse (LANCÔME). Referencia 040. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-040.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-042",
+      "ref": "042",
+      "name": "La Vie est Belle",
+      "inspirationBrand": "LANCÔME",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T042",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3042",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "042",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de La Vie est Belle (LANCÔME). Référence 042. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by La Vie est Belle (LANCÔME). Reference 042. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en La Vie est Belle (LANCÔME). Referencia 042. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-042.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-044",
+      "ref": "044",
+      "name": "Silver Mountain Water",
+      "inspirationBrand": "CREED",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T044",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3044",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "044",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Silver Mountain Water (CREED). Référence 044. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Silver Mountain Water (CREED). Reference 044. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Silver Mountain Water (CREED). Referencia 044. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-044.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-045",
+      "ref": "045",
+      "name": "Garçon",
+      "inspirationBrand": "OLFAZETA",
+      "category": "enfant",
+      "gamme": "enfant",
+      "formats": [
+        {
+          "size": "30ml",
+          "ref": "045",
+          "price": "29,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Parfum enfant Garçon. Référence 045, 30 ml. Douceur adaptée, produit original.",
+        "en": "Concentrated perfume extract (30%), inspired by Garçon (OLFAZETA). Reference 045. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Garçon (OLFAZETA). Referencia 045. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-047",
+      "ref": "047",
+      "name": "Crystal Noir",
+      "inspirationBrand": "VERSACE",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T047",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3047",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "047",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Crystal Noir (VERSACE). Référence 047. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Crystal Noir (VERSACE). Reference 047. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Crystal Noir (VERSACE). Referencia 047. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-047.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-048",
+      "ref": "048",
+      "name": "Allure Homme",
+      "inspirationBrand": "CHANEL",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T048",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3048",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "048",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Allure Homme (CHANEL). Référence 048. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Allure Homme (CHANEL). Reference 048. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Allure Homme (CHANEL). Referencia 048. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-048.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-049",
+      "ref": "049",
+      "name": "Dolce",
+      "inspirationBrand": "D&G",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T049",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3049",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "049",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Dolce (D&G). Référence 049. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Dolce (D&G). Reference 049. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Dolce (D&G). Referencia 049. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-049.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-051",
+      "ref": "051",
+      "name": "Coco Mademoiselle To The Edge",
+      "inspirationBrand": "CHANEL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T051",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3051",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "051",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Coco Mademoiselle To The Edge (CHANEL). Référence 051. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Coco Mademoiselle To The Edge (CHANEL). Reference 051. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Coco Mademoiselle To The Edge (CHANEL). Referencia 051. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-051.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-052",
+      "ref": "052",
+      "name": "Pasha",
+      "inspirationBrand": "CARTIER",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T052",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3052",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "052",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Pasha (CARTIER). Référence 052. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Pasha (CARTIER). Reference 052. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Pasha (CARTIER). Referencia 052. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-052.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-053",
+      "ref": "053",
+      "name": "Narciso",
+      "inspirationBrand": "NARCISO RODRIGUEZ",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T053",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3053",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "053",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Narciso (NARCISO RODRIGUEZ). Référence 053. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Narciso (NARCISO RODRIGUEZ). Reference 053. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Narciso (NARCISO RODRIGUEZ). Referencia 053. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-053.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-054",
+      "ref": "054",
+      "name": "Black Orchid",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T054",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3054",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "054",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Black Orchid (TOM FORD). Référence 054. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Black Orchid (TOM FORD). Reference 054. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Black Orchid (TOM FORD). Referencia 054. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-054.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-055",
+      "ref": "055",
+      "name": "Black Opium",
+      "inspirationBrand": "YSL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T055",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3055",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "055",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Black Opium (YSL). Référence 055. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Black Opium (YSL). Reference 055. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Black Opium (YSL). Referencia 055. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-055.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-056",
+      "ref": "056",
+      "name": "Ange ou Démon",
+      "inspirationBrand": "GIVENCHY",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T056",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3056",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "056",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Ange ou Démon (GIVENCHY). Référence 056. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Ange ou Démon (GIVENCHY). Reference 056. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Ange ou Démon (GIVENCHY). Referencia 056. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-056.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-057",
+      "ref": "057",
+      "name": "Omnia Améthyste",
+      "inspirationBrand": "BVLGARI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T057",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3057",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "057",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Omnia Améthyste (BVLGARI). Référence 057. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Omnia Améthyste (BVLGARI). Reference 057. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Omnia Améthyste (BVLGARI). Referencia 057. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-057.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-058",
+      "ref": "058",
+      "name": "Fille",
+      "inspirationBrand": "OLFAZETA",
+      "category": "enfant",
+      "gamme": "enfant",
+      "formats": [
+        {
+          "size": "30ml",
+          "ref": "058",
+          "price": "29,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Parfum enfant Fille. Référence 058, 30 ml. Douceur adaptée, produit original.",
+        "en": "Concentrated perfume extract (30%), inspired by Fille (OLFAZETA). Reference 058. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Fille (OLFAZETA). Referencia 058. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-059",
+      "ref": "059",
+      "name": "Bébé",
+      "inspirationBrand": "OLFAZETA",
+      "category": "enfant",
+      "gamme": "enfant",
+      "formats": [
+        {
+          "size": "30ml",
+          "ref": "059",
+          "price": "29,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Parfum enfant Bébé. Référence 059, 30 ml. Douceur adaptée, produit original.",
+        "en": "Concentrated perfume extract (30%), inspired by Bébé (OLFAZETA). Reference 059. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bébé (OLFAZETA). Referencia 059. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-060",
+      "ref": "060",
+      "name": "Millésime Impérial",
+      "inspirationBrand": "CREED",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T060",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3060",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "060",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Millésime Impérial (CREED). Référence 060. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Millésime Impérial (CREED). Reference 060. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Millésime Impérial (CREED). Referencia 060. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-061",
+      "ref": "061",
+      "name": "Invictus",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T061",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3061",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "061",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Invictus (PACO RABANNE). Référence 061. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Invictus (PACO RABANNE). Reference 061. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Invictus (PACO RABANNE). Referencia 061. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-061.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-062",
+      "ref": "062",
+      "name": "Intenso",
+      "inspirationBrand": "D&G",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T062",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3062",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "062",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Intenso (D&G). Référence 062. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Intenso (D&G). Reference 062. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Intenso (D&G). Referencia 062. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-062.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-064",
+      "ref": "064",
+      "name": "Omnia Indian Garnet",
+      "inspirationBrand": "BVLGARI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T064",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3064",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "064",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Omnia Indian Garnet (BVLGARI). Référence 064. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Omnia Indian Garnet (BVLGARI). Reference 064. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Omnia Indian Garnet (BVLGARI). Referencia 064. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-064.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-066",
+      "ref": "066",
+      "name": "Scent Intense",
+      "inspirationBrand": "COSTUME NATIONAL",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T066",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3066",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "066",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Scent Intense (COSTUME NATIONAL). Référence 066. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Scent Intense (COSTUME NATIONAL). Reference 066. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Scent Intense (COSTUME NATIONAL). Referencia 066. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-067",
+      "ref": "067",
+      "name": "Olympéa",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T067",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3067",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "067",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Olympéa (PACO RABANNE). Référence 067. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Olympéa (PACO RABANNE). Reference 067. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Olympéa (PACO RABANNE). Referencia 067. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-067.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-068",
+      "ref": "068",
+      "name": "Aventus",
+      "inspirationBrand": "CREED",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T068",
+          "price": "17,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3068",
+          "price": "29,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "068",
+          "price": "57,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Aventus (CREED). Référence 068. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Aventus (CREED). Reference 068. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Aventus (CREED). Referencia 068. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-068.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-069",
+      "ref": "069",
+      "name": "Acqua di Sale",
+      "inspirationBrand": "PROFUMUM ROMA",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T069",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3069",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "069",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Acqua di Sale (PROFUMUM ROMA). Référence 069. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Acqua di Sale (PROFUMUM ROMA). Reference 069. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Acqua di Sale (PROFUMUM ROMA). Referencia 069. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-069.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-070",
+      "ref": "070",
+      "name": "The One",
+      "inspirationBrand": "D&G",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T070",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3070",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "070",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de The One (D&G). Référence 070. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by The One (D&G). Reference 070. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en The One (D&G). Referencia 070. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-070.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-071",
+      "ref": "071",
+      "name": "Allure",
+      "inspirationBrand": "CHANEL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T071",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3071",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "071",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Allure (CHANEL). Référence 071. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Allure (CHANEL). Reference 071. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Allure (CHANEL). Referencia 071. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-071.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-072",
+      "ref": "072",
+      "name": "Patchouli",
+      "inspirationBrand": "REMINISCENCE",
+      "category": "mixte",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T072",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3072",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "072",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Patchouli (REMINISCENCE). Référence 072. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Patchouli (REMINISCENCE). Reference 072. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Patchouli (REMINISCENCE). Referencia 072. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-072.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-073",
+      "ref": "073",
+      "name": "Himalaya",
+      "inspirationBrand": "CREED",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T073",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3073",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "073",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Himalaya (CREED). Référence 073. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Himalaya (CREED). Reference 073. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Himalaya (CREED). Referencia 073. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-073.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-074",
+      "ref": "074",
+      "name": "Black Afgano",
+      "inspirationBrand": "NASOMATTO",
+      "category": "homme",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T074",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "074",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Black Afgano (NASOMATTO). Référence 074. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Black Afgano (NASOMATTO). Reference 074. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Black Afgano (NASOMATTO). Referencia 074. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-074.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-075",
+      "ref": "075",
+      "name": "X for Men",
+      "inspirationBrand": "CLIVE CHRISTIAN",
+      "category": "homme",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T075",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "075",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de X for Men (CLIVE CHRISTIAN). Référence 075. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by X for Men (CLIVE CHRISTIAN). Reference 075. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en X for Men (CLIVE CHRISTIAN). Referencia 075. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-075.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-076",
+      "ref": "076",
+      "name": "Acqua di Gioia",
+      "inspirationBrand": "ARMANI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T076",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3076",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "076",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Acqua di Gioia (ARMANI). Référence 076. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Acqua di Gioia (ARMANI). Reference 076. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Acqua di Gioia (ARMANI). Referencia 076. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-076.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-078",
+      "ref": "078",
+      "name": "Ultraviolet",
+      "inspirationBrand": "PACO RABANNE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T078",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3078",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "078",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Ultraviolet (PACO RABANNE). Référence 078. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Ultraviolet (PACO RABANNE). Reference 078. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Ultraviolet (PACO RABANNE). Referencia 078. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-078.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-079",
+      "ref": "079",
+      "name": "Myslf",
+      "inspirationBrand": "YSL",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T079",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3079",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "079",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Myslf (YSL). Référence 079. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Myslf (YSL). Reference 079. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Myslf (YSL). Referencia 079. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-079.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-080",
+      "ref": "080",
+      "name": "Sì",
+      "inspirationBrand": "ARMANI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T080",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3080",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "080",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Sì (ARMANI). Référence 080. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Sì (ARMANI). Reference 080. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Sì (ARMANI). Referencia 080. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-080.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-081",
+      "ref": "081",
+      "name": "Classique Essence",
+      "inspirationBrand": "JPG",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T081",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3081",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "081",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Classique Essence (JPG). Référence 081. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Classique Essence (JPG). Reference 081. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Classique Essence (JPG). Referencia 081. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-081.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-082",
+      "ref": "082",
+      "name": "Signorina",
+      "inspirationBrand": "FERRAGAMO",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T082",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3082",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "082",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Signorina (FERRAGAMO). Référence 082. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Signorina (FERRAGAMO). Reference 082. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Signorina (FERRAGAMO). Referencia 082. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-082.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-084",
+      "ref": "084",
+      "name": "Dylan Blue",
+      "inspirationBrand": "VERSACE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T084",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3084",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "084",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Dylan Blue (VERSACE). Référence 084. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Dylan Blue (VERSACE). Reference 084. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Dylan Blue (VERSACE). Referencia 084. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-084.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-085",
+      "ref": "085",
+      "name": "Chance",
+      "inspirationBrand": "CHANEL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T085",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3085",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "085",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Chance (CHANEL). Référence 085. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Chance (CHANEL). Reference 085. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Chance (CHANEL). Referencia 085. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-085.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-086",
+      "ref": "086",
+      "name": "Legend",
+      "inspirationBrand": "MONT BLANC",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T086",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3086",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "086",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Legend (MONT BLANC). Référence 086. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Legend (MONT BLANC). Reference 086. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Legend (MONT BLANC). Referencia 086. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-086.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-087",
+      "ref": "087",
+      "name": "Wanted",
+      "inspirationBrand": "AZZARO",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T087",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3087",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "087",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Wanted (AZZARO). Référence 087. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Wanted (AZZARO). Reference 087. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Wanted (AZZARO). Referencia 087. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-087.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-088",
+      "ref": "088",
+      "name": "Man in Black",
+      "inspirationBrand": "BVLGARI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T088",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3088",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "088",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Man in Black (BVLGARI). Référence 088. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Man in Black (BVLGARI). Reference 088. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Man in Black (BVLGARI). Referencia 088. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-088.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-089",
+      "ref": "089",
+      "name": "Mon Paris",
+      "inspirationBrand": "YSL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T089",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3089",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "089",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Mon Paris (YSL). Référence 089. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Mon Paris (YSL). Reference 089. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Mon Paris (YSL). Referencia 089. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-089.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-090",
+      "ref": "090",
+      "name": "Poison Girl",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T090",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3090",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "090",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Poison Girl (DIOR). Référence 090. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Poison Girl (DIOR). Reference 090. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Poison Girl (DIOR). Referencia 090. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-090.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-091",
+      "ref": "091",
+      "name": "Chrome",
+      "inspirationBrand": "AZZARO",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T091",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3091",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "091",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Chrome (AZZARO). Référence 091. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Chrome (AZZARO). Reference 091. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Chrome (AZZARO). Referencia 091. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-091.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-093",
+      "ref": "093",
+      "name": "Aventus for Her",
+      "inspirationBrand": "CREED",
+      "category": "femme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T093",
+          "price": "17,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3093",
+          "price": "29,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "093",
+          "price": "57,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Aventus for Her (CREED). Référence 093. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Aventus for Her (CREED). Reference 093. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Aventus for Her (CREED). Referencia 093. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-093.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-094",
+      "ref": "094",
+      "name": "Sauvage",
+      "inspirationBrand": "DIOR",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T094",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3094",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "094",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Sauvage (DIOR). Référence 094. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Sauvage (DIOR). Reference 094. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Sauvage (DIOR). Referencia 094. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-094.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-096",
+      "ref": "096",
+      "name": "Gabrielle",
+      "inspirationBrand": "CHANEL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T096",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3096",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "096",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Gabrielle (CHANEL). Référence 096. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Gabrielle (CHANEL). Reference 096. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Gabrielle (CHANEL). Referencia 096. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-096.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-097",
+      "ref": "097",
+      "name": "Amo",
+      "inspirationBrand": "FERRAGAMO",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T097",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3097",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "097",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Amo (FERRAGAMO). Référence 097. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Amo (FERRAGAMO). Reference 097. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Amo (FERRAGAMO). Referencia 097. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-097.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-098",
+      "ref": "098",
+      "name": "Joy",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T098",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3098",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "098",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Joy (DIOR). Référence 098. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Joy (DIOR). Reference 098. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Joy (DIOR). Referencia 098. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-098.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-099",
+      "ref": "099",
+      "name": "Mandarino di Amalfi",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T099",
+          "price": "13,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3099",
+          "price": "23,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "099",
+          "price": "45,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Mandarino di Amalfi (TOM FORD). Référence 099. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Mandarino di Amalfi (TOM FORD). Reference 099. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Mandarino di Amalfi (TOM FORD). Referencia 099. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-099.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-100",
+      "ref": "100",
+      "name": "White Aoud",
+      "inspirationBrand": "MONTALE",
+      "category": "mixte",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T100",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3100",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "100",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de White Aoud (MONTALE). Référence 100. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by White Aoud (MONTALE). Reference 100. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en White Aoud (MONTALE). Referencia 100. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-100.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-101",
+      "ref": "101",
+      "name": "Velvet Amber Skin",
+      "inspirationBrand": "D&G",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T101",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "101",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Velvet Amber Skin (D&G). Référence 101. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Velvet Amber Skin (D&G). Reference 101. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Velvet Amber Skin (D&G). Referencia 101. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-101.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-102",
+      "ref": "102",
+      "name": "Velvet Amber Sun",
+      "inspirationBrand": "D&G",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T102",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "102",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Velvet Amber Sun (D&G). Référence 102. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Velvet Amber Sun (D&G). Reference 102. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Velvet Amber Sun (D&G). Referencia 102. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-102.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-105",
+      "ref": "105",
+      "name": "Intense Café",
+      "inspirationBrand": "MONTALE",
+      "category": "mixte",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T105",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3105",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "105",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Intense Café (MONTALE). Référence 105. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Intense Café (MONTALE). Reference 105. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Intense Café (MONTALE). Referencia 105. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-105.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-106",
+      "ref": "106",
+      "name": "Fucking Fabulous",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T106",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "106",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Fucking Fabulous (TOM FORD). Référence 106. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Fucking Fabulous (TOM FORD). Reference 106. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Fucking Fabulous (TOM FORD). Referencia 106. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-106.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-108",
+      "ref": "108",
+      "name": "Green Irish Tweed",
+      "inspirationBrand": "CREED",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T108",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3108",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "108",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Green Irish Tweed (CREED). Référence 108. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Green Irish Tweed (CREED). Reference 108. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Green Irish Tweed (CREED). Referencia 108. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/branding/brand-p2-555.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-109",
+      "ref": "109",
+      "name": "J'Adore l'Or",
+      "inspirationBrand": "DIOR",
+      "category": "femme",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T109",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "109",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de J'Adore l'Or (DIOR). Référence 109. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by J'Adore l'Or (DIOR). Reference 109. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en J'Adore l'Or (DIOR). Referencia 109. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-109.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-110",
+      "ref": "110",
+      "name": "Kirké",
+      "inspirationBrand": "TIZIANA TERENZI",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T110",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3110",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "110",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Kirké (TIZIANA TERENZI). Référence 110. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Kirké (TIZIANA TERENZI). Reference 110. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Kirké (TIZIANA TERENZI). Referencia 110. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-110.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-111",
+      "ref": "111",
+      "name": "Lost Cherry",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T111",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "111",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Lost Cherry (TOM FORD). Référence 111. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Lost Cherry (TOM FORD). Reference 111. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Lost Cherry (TOM FORD). Referencia 111. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-111.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-112",
+      "ref": "112",
+      "name": "Néroli Portofino",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T112",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "112",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Néroli Portofino (TOM FORD). Référence 112. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Néroli Portofino (TOM FORD). Reference 112. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Néroli Portofino (TOM FORD). Referencia 112. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-112.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-113",
+      "ref": "113",
+      "name": "Sur la Route",
+      "inspirationBrand": "LOUIS VUITTON",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T113",
+          "price": "17,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3113",
+          "price": "29,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "113",
+          "price": "57,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Sur la Route (LOUIS VUITTON). Référence 113. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Sur la Route (LOUIS VUITTON). Reference 113. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Sur la Route (LOUIS VUITTON). Referencia 113. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-113.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-114",
+      "ref": "114",
+      "name": "Ombre Nomade",
+      "inspirationBrand": "LOUIS VUITTON",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T114",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3114",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "114",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Ombre Nomade (LOUIS VUITTON). Référence 114. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Ombre Nomade (LOUIS VUITTON). Reference 114. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Ombre Nomade (LOUIS VUITTON). Referencia 114. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-114.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-115",
+      "ref": "115",
+      "name": "Idôle",
+      "inspirationBrand": "LANCÔME",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T115",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3115",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "115",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Idôle (LANCÔME). Référence 115. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Idôle (LANCÔME). Reference 115. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Idôle (LANCÔME). Referencia 115. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-115.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-116",
+      "ref": "116",
+      "name": "Yes I Am",
+      "inspirationBrand": "CACHAREL",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T116",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3116",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "116",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Yes I Am (CACHAREL). Référence 116. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Yes I Am (CACHAREL). Reference 116. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Yes I Am (CACHAREL). Referencia 116. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-116.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-117",
+      "ref": "117",
+      "name": "Tobacco Vanille",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T117",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "117",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Tobacco Vanille (TOM FORD). Référence 117. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Tobacco Vanille (TOM FORD). Reference 117. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Tobacco Vanille (TOM FORD). Referencia 117. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-117.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-118",
+      "ref": "118",
+      "name": "Baccarat Rouge 540",
+      "inspirationBrand": "MAISON F. KURKDJIAN",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T118",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "118",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Baccarat Rouge 540 (MAISON F. KURKDJIAN). Référence 118. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Baccarat Rouge 540 (MAISON F. KURKDJIAN). Reference 118. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Baccarat Rouge 540 (MAISON F. KURKDJIAN). Referencia 118. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-118.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "id": "parfum-119",
+      "ref": "119",
+      "name": "Scandal",
+      "inspirationBrand": "JPG",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T119",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3119",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "119",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Scandal (JPG). Référence 119. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Scandal (JPG). Reference 119. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Scandal (JPG). Referencia 119. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-119.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-120",
+      "ref": "120",
+      "name": "La Petite Robe Noire",
+      "inspirationBrand": "GUERLAIN",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T120",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3120",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "120",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de La Petite Robe Noire (GUERLAIN). Référence 120. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by La Petite Robe Noire (GUERLAIN). Reference 120. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en La Petite Robe Noire (GUERLAIN). Referencia 120. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-120.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-121",
+      "ref": "121",
+      "name": "L'Interdit",
+      "inspirationBrand": "GIVENCHY",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T121",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3121",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "121",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de L'Interdit (GIVENCHY). Référence 121. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by L'Interdit (GIVENCHY). Reference 121. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en L'Interdit (GIVENCHY). Referencia 121. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-121.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-122",
+      "ref": "122",
+      "name": "Libre",
+      "inspirationBrand": "YSL",
+      "category": "femme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T122",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3122",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "122",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Libre (YSL). Référence 122. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Libre (YSL). Reference 122. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Libre (YSL). Referencia 122. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-122.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-123",
+      "ref": "123",
+      "name": "Good Girl Gone Bad",
+      "inspirationBrand": "KILIAN",
+      "category": "femme",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T123",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "123",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Good Girl Gone Bad (KILIAN). Référence 123. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Good Girl Gone Bad (KILIAN). Reference 123. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Good Girl Gone Bad (KILIAN). Referencia 123. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-123.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-124",
+      "ref": "124",
+      "name": "Zeta",
+      "inspirationBrand": "MORPH",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T124",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "124",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Zeta (MORPH). Référence 124. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Zeta (MORPH). Reference 124. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Zeta (MORPH). Referencia 124. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-124.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-125",
+      "ref": "125",
+      "name": "Sole di Positano Acqua",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T125",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "125",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Sole di Positano Acqua (TOM FORD). Référence 125. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Sole di Positano Acqua (TOM FORD). Reference 125. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Sole di Positano Acqua (TOM FORD). Referencia 125. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-125.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-126",
+      "ref": "126",
+      "name": "Soleil Blanc",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T126",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "126",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Soleil Blanc (TOM FORD). Référence 126. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Soleil Blanc (TOM FORD). Reference 126. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Soleil Blanc (TOM FORD). Referencia 126. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-126.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-127",
+      "ref": "127",
+      "name": "Oud Wood",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T127",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "127",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Oud Wood (TOM FORD). Référence 127. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Oud Wood (TOM FORD). Reference 127. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Oud Wood (TOM FORD). Referencia 127. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-127.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-128",
+      "ref": "128",
+      "name": "Vanille Fatale",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T128",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "128",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Vanille Fatale (TOM FORD). Référence 128. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Vanille Fatale (TOM FORD). Reference 128. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Vanille Fatale (TOM FORD). Referencia 128. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-128.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-129",
+      "ref": "129",
+      "name": "Erba Pura",
+      "inspirationBrand": "XERJOFF",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T129",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "129",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Erba Pura (XERJOFF). Référence 129. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Erba Pura (XERJOFF). Reference 129. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Erba Pura (XERJOFF). Referencia 129. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-129.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-130",
+      "ref": "130",
+      "name": "Megamare",
+      "inspirationBrand": "ORTO PARISI",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T130",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "130",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Megamare (ORTO PARISI). Référence 130. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Megamare (ORTO PARISI). Reference 130. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Megamare (ORTO PARISI). Referencia 130. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-130.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-131",
+      "ref": "131",
+      "name": "Good Girl",
+      "inspirationBrand": "CAROLINA HERRERA",
+      "category": "femme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T131",
+          "price": "14,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3131",
+          "price": "25,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "131",
+          "price": "48,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Good Girl (CAROLINA HERRERA). Référence 131. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Good Girl (CAROLINA HERRERA). Reference 131. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Good Girl (CAROLINA HERRERA). Referencia 131. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-131.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-132",
+      "ref": "132",
+      "name": "My Way",
+      "inspirationBrand": "ARMANI",
+      "category": "femme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T132",
+          "price": "13,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3132",
+          "price": "23,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "132",
+          "price": "45,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de My Way (ARMANI). Référence 132. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by My Way (ARMANI). Reference 132. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en My Way (ARMANI). Referencia 132. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-132.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-133",
+      "ref": "133",
+      "name": "Prada Paradoxe",
+      "inspirationBrand": "PRADA",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T133",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3133",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "133",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Prada Paradoxe (PRADA). Référence 133. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Prada Paradoxe (PRADA). Reference 133. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Prada Paradoxe (PRADA). Referencia 133. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-133.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-134",
+      "ref": "134",
+      "name": "Bitter Peach",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T134",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "134",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Bitter Peach (TOM FORD). Référence 134. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Bitter Peach (TOM FORD). Reference 134. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bitter Peach (TOM FORD). Referencia 134. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-134.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-135",
+      "ref": "135",
+      "name": "Bois d'Argent",
+      "inspirationBrand": "DIOR",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T135",
+          "price": "17,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3135",
+          "price": "29,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "135",
+          "price": "57,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Bois d'Argent (DIOR). Référence 135. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Bois d'Argent (DIOR). Reference 135. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bois d'Argent (DIOR). Referencia 135. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-135.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-136",
+      "ref": "136",
+      "name": "Dior Homme Intense",
+      "inspirationBrand": "DIOR",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T136",
+          "price": "13,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3136",
+          "price": "23,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "136",
+          "price": "45,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Dior Homme Intense (DIOR). Référence 136. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Dior Homme Intense (DIOR). Reference 136. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Dior Homme Intense (DIOR). Referencia 136. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-136.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-137",
+      "ref": "137",
+      "name": "XJ 1861 Naxos",
+      "inspirationBrand": "XERJOFF",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T137",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "137",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de XJ 1861 Naxos (XERJOFF). Référence 137. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by XJ 1861 Naxos (XERJOFF). Reference 137. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en XJ 1861 Naxos (XERJOFF). Referencia 137. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-137.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-138",
+      "ref": "138",
+      "name": "Wood Whisper",
+      "inspirationBrand": "OJAR",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T138",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "138",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Wood Whisper (OJAR). Référence 138. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Wood Whisper (OJAR). Reference 138. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Wood Whisper (OJAR). Referencia 138. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-138.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-139",
+      "ref": "139",
+      "name": "Les Sables Roses",
+      "inspirationBrand": "LOUIS VUITTON",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T139",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "139",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Les Sables Roses (LOUIS VUITTON). Référence 139. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Les Sables Roses (LOUIS VUITTON). Reference 139. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Les Sables Roses (LOUIS VUITTON). Referencia 139. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-139.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-140",
+      "ref": "140",
+      "name": "Eros",
+      "inspirationBrand": "VERSACE",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T140",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3140",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "140",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Eros (VERSACE). Référence 140. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Eros (VERSACE). Reference 140. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Eros (VERSACE). Referencia 140. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-140.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-141",
+      "ref": "141",
+      "name": "Turath",
+      "inspirationBrand": "THE SPIRIT OF DUBAÏ",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T141",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "141",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Turath (THE SPIRIT OF DUBAÏ). Référence 141. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Turath (THE SPIRIT OF DUBAÏ). Reference 141. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Turath (THE SPIRIT OF DUBAÏ). Referencia 141. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-141.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-142",
+      "ref": "142",
+      "name": "Ombré Leather",
+      "inspirationBrand": "TOM FORD",
+      "category": "mixte",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T142",
+          "price": "17,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3142",
+          "price": "29,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "142",
+          "price": "57,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Ombré Leather (TOM FORD). Référence 142. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Ombré Leather (TOM FORD). Reference 142. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Ombré Leather (TOM FORD). Referencia 142. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-142.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-143",
+      "ref": "143",
+      "name": "Vanille Powder",
+      "inspirationBrand": "MATIÈRE PREMIÈRE",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T143",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "143",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Vanille Powder (MATIÈRE PREMIÈRE). Référence 143. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Vanille Powder (MATIÈRE PREMIÈRE). Reference 143. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Vanille Powder (MATIÈRE PREMIÈRE). Referencia 143. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-143.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-144",
+      "ref": "144",
+      "name": "Bianco Latte",
+      "inspirationBrand": "GIARDINI DI TOSCANA",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T144",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "144",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Bianco Latte (GIARDINI DI TOSCANA). Référence 144. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Bianco Latte (GIARDINI DI TOSCANA). Reference 144. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bianco Latte (GIARDINI DI TOSCANA). Referencia 144. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-144.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-145",
+      "ref": "145",
+      "name": "Dévotion",
+      "inspirationBrand": "D&G",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T145",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3145",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "145",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Dévotion (D&G). Référence 145. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Dévotion (D&G). Reference 145. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Dévotion (D&G). Referencia 145. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-145.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-146",
+      "ref": "146",
+      "name": "Rouge Pierre",
+      "inspirationBrand": "PIERRE BALMAIN",
+      "category": "mixte",
+      "gamme": "luxury",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T146",
+          "price": "19,90 €"
+        },
+        {
+          "size": "50ml",
+          "ref": "146",
+          "price": "52,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum, inspiré de Rouge Pierre (PIERRE BALMAIN). Référence 146. Gamme Luxury 50 ml. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Rouge Pierre (PIERRE BALMAIN). Reference 146. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Rouge Pierre (PIERRE BALMAIN). Referencia 146. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-146.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-147m",
+      "ref": "147M",
+      "name": "Bottled Absolu",
+      "inspirationBrand": "HUGO BOSS",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T147M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3147M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "147M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Bottled Absolu (HUGO BOSS). Référence 147M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Bottled Absolu (HUGO BOSS). Reference 147M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Bottled Absolu (HUGO BOSS). Referencia 147M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-147m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-148",
+      "ref": "148",
+      "name": "Goddess Divine Aura",
+      "inspirationBrand": "BURBERRY",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T148",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3148",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "148",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Goddess Divine Aura (BURBERRY). Référence 148. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Goddess Divine Aura (BURBERRY). Reference 148. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Goddess Divine Aura (BURBERRY). Referencia 148. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-148.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-150m",
+      "ref": "150M",
+      "name": "Hugo Unbending Man",
+      "inspirationBrand": "HUGO BOSS",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T150M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3150M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "150M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Hugo Unbending Man (HUGO BOSS). Référence 150M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Hugo Unbending Man (HUGO BOSS). Reference 150M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Hugo Unbending Man (HUGO BOSS). Referencia 150M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-150m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-151w",
+      "ref": "151W",
+      "name": "Guilty To The Edge For Her",
+      "inspirationBrand": "GUCCI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T151W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3151W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "151W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Guilty To The Edge For Her (GUCCI). Référence 151W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Guilty To The Edge For Her (GUCCI). Reference 151W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Guilty To The Edge For Her (GUCCI). Referencia 151W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-151w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-152m",
+      "ref": "152M",
+      "name": "Guilty To The Edge For Him",
+      "inspirationBrand": "GUCCI",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T152M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3152M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "152M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Guilty To The Edge For Him (GUCCI). Référence 152M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Guilty To The Edge For Him (GUCCI). Reference 152M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Guilty To The Edge For Him (GUCCI). Referencia 152M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-152m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-153w",
+      "ref": "153W",
+      "name": "Chloé Rose Dust",
+      "inspirationBrand": "CHLOÉ",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T153W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3153W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "153W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Chloé Rose Dust (CHLOÉ). Référence 153W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Chloé Rose Dust (CHLOÉ). Reference 153W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Chloé Rose Dust (CHLOÉ). Referencia 153W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-153w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-154w",
+      "ref": "154W",
+      "name": "Love Chloé Liaison Rose",
+      "inspirationBrand": "CHLOÉ",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T154W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3154W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "154W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Love Chloé Liaison Rose (CHLOÉ). Référence 154W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Love Chloé Liaison Rose (CHLOÉ). Reference 154W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Love Chloé Liaison Rose (CHLOÉ). Referencia 154W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-154w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-155u",
+      "ref": "155U",
+      "name": "CK One True Self",
+      "inspirationBrand": "CALVIN KLEIN",
+      "category": "mixte",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T155U",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3155U",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "155U",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de CK One True Self (CALVIN KLEIN). Référence 155U. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by CK One True Self (CALVIN KLEIN). Reference 155U. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en CK One True Self (CALVIN KLEIN). Referencia 155U. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-155u.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-156w",
+      "ref": "156W",
+      "name": "Hugo Unbending Woman",
+      "inspirationBrand": "HUGO BOSS",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T156W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3156W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "156W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Hugo Unbending Woman (HUGO BOSS). Référence 156W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Hugo Unbending Woman (HUGO BOSS). Reference 156W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Hugo Unbending Woman (HUGO BOSS). Referencia 156W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-156w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-157m",
+      "ref": "157M",
+      "name": "The Scent Aftertouch",
+      "inspirationBrand": "HUGO BOSS",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T157M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3157M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "157M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de The Scent Aftertouch (HUGO BOSS). Référence 157M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by The Scent Aftertouch (HUGO BOSS). Reference 157M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en The Scent Aftertouch (HUGO BOSS). Referencia 157M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-157m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-158w",
+      "ref": "158W",
+      "name": "Flora Wild Bloom",
+      "inspirationBrand": "GUCCI",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T158W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3158W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "158W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Flora Wild Bloom (GUCCI). Référence 158W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Flora Wild Bloom (GUCCI). Reference 158W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Flora Wild Bloom (GUCCI). Referencia 158W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-158w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-159w",
+      "ref": "159W",
+      "name": "Burberry British Charm For Her",
+      "inspirationBrand": "BURBERRY",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T159W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3159W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "159W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Burberry British Charm For Her (BURBERRY). Référence 159W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Burberry British Charm For Her (BURBERRY). Reference 159W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Burberry British Charm For Her (BURBERRY). Referencia 159W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-159w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-160m",
+      "ref": "160M",
+      "name": "Burberry for Men",
+      "inspirationBrand": "BURBERRY",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T160M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3160M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "160M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Burberry for Men (BURBERRY). Référence 160M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Burberry for Men (BURBERRY). Reference 160M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Burberry for Men (BURBERRY). Referencia 160M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-160m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-161w",
+      "ref": "161W",
+      "name": "Valentino Donna Born in Roma Intense",
+      "inspirationBrand": "VALENTINO",
+      "category": "femme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T161W",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3161W",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "161W",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Valentino Donna Born in Roma Intense (VALENTINO). Référence 161W. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Valentino Donna Born in Roma Intense (VALENTINO). Reference 161W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Valentino Donna Born in Roma Intense (VALENTINO). Referencia 161W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-161w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-162m",
+      "ref": "162M",
+      "name": "Valentino Uomo Born in Roma Intense",
+      "inspirationBrand": "VALENTINO",
+      "category": "homme",
+      "gamme": "classic",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T162M",
+          "price": "11,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3162M",
+          "price": "18,00 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "162M",
+          "price": "35,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré à 30 %, inspiré de Valentino Uomo Born in Roma Intense (VALENTINO). Référence 162M. Flacon 70 ml – 35,00 € pour la gamme classique (voir formats). Produit original, inspiration décrite à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Valentino Uomo Born in Roma Intense (VALENTINO). Reference 162M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Valentino Uomo Born in Roma Intense (VALENTINO). Referencia 162M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-162m.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-163w",
+      "ref": "163W",
+      "name": "Miutine",
+      "inspirationBrand": "MIU MIU",
+      "category": "femme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T163W",
+          "price": "13,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3163W",
+          "price": "23,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "163W",
+          "price": "45,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Miutine (MIU MIU). Référence 163W. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Miutine (MIU MIU). Reference 163W. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Miutine (MIU MIU). Referencia 163W. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-163w.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "id": "parfum-164m",
+      "ref": "164M",
+      "name": "Paradigme",
+      "inspirationBrand": "PRADA",
+      "category": "homme",
+      "gamme": "luxe",
+      "formats": [
+        {
+          "size": "15ml",
+          "ref": "T164M",
+          "price": "13,90 €"
+        },
+        {
+          "size": "30ml",
+          "ref": "3164M",
+          "price": "23,50 €"
+        },
+        {
+          "size": "70ml",
+          "ref": "164M",
+          "price": "45,00 €"
+        }
+      ],
+      "description": {
+        "fr": "Extrait de parfum concentré, inspiré de Paradigme (PRADA). Référence 164M. Gamme Luxe. Produit original, marques citées à titre descriptif (ART. 1 bis ex r.d 929/42-IT).",
+        "en": "Concentrated perfume extract (30%), inspired by Paradigme (PRADA). Reference 164M. Original product, brands cited descriptively.",
+        "es": "Extracto de perfume concentrado (30 %), inspirado en Paradigme (PRADA). Referencia 164M. Producto original, marcas citadas con fin descriptivo."
+      },
+      "notes": [],
+      "images": [
+        "/images/products/parfum-164m.jpg"
+      ],
+      "featured": false
+    }
+  ]
+}
